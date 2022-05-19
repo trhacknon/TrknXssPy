@@ -37,7 +37,7 @@ docker run -t xsspy -u website.com
 
 # Payloads
 If you have found a XSS vulnerability, you can try the following payloads.<br>
-You can upgrade payloads.txt list for up the capabilities of this tool. [payloads xss] (https://github.com/trhacknon/XssPy/blob/master/payloads.txt) 
+You can upgrade payloads.txt list for up the capabilities of this tool. [a link] (https://github.com/trhacknon/XssPy/blob/master/payloads.txt "payloads") 
 
 # Description: 
 XssPy is a python tool for finding Cross Site Scripting vulnerabilities in websites. This tool is the first of its kind. Instead of just checking one page as most of the tools do, this tool traverses the website and find all the links and subdomains first. After that, it starts scanning each and every input on each and every page that it found while its traversal. It uses small yet effective payloads to search for XSS vulnerabilities. 
