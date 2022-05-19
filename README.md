@@ -19,7 +19,7 @@ You will also need the mechanize distribution, you can install it with pip:
 
 # Usage: 
 `python XssPy.py website.com` (Do not write www.website.com OR http://www.website.com)
-https://github.com/trhacknon/XssPy/blob/master/IMG_20220519_042111.jpg
+<img title="XssPy" src="https://github.com/trhacknon/XssPy/blob/master/IMG_20220519_042111.jpg"><br>
 # Docker
 Advantage of Docker is that is will run on every machine. You don't need to install Pip packages or use a Venv.
 Package versions are pinned. This ensures that XssPy will also run in the future. Regardless which Python-Version you've running on you machine.
