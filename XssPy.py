@@ -14,7 +14,7 @@ br.addheaders = [
 br.set_handle_robots(False)
 br.set_handle_refresh(False)
 
-payloads = ['<svg "ons>', '" onfocus="alert(1);', 'javascript:alert(1)']
+payloads = open('payloads.txt','r')
 blacklist = ['.png', '.jpg', '.jpeg', '.mp3', '.mp4', '.avi', '.gif', '.svg',
              '.pdf']
 xssLinks = []            # TOTAL CROSS SITE SCRIPTING FINDINGS
@@ -36,7 +36,8 @@ class color:
 print color.BOLD + color.RED + """
 XssPy - Finding XSS made easier
 Author: Faizan Ahmad (Fsecurify)
-Email: fsecurify@gmail.com
+Modded By Trhacknon
+Email: jeremydiliotti@gmail.com
 Usage: XssPy.py website.com (Not www.website.com OR http://www.website.com)
 Comprehensive Scan: python XssPy.py -u website.com -e
 Verbose logging: python XssPy.py -u website.com -v
