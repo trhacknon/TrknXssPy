@@ -2,18 +2,15 @@
 A tool by Fsecurify
 
 Author: Faizan Ahmad 
-https://pk.linkedin.com/in/faizan-ahmad-015964118
+Modded By Trhacknon
 
 # Great News: Xsspy was recently used by an engineer at microsoft to find a bug in Pentagon's Bug Bounty Program.
 http://holisticinfosec.blogspot.com/2016/06/toolsmith-tidbit-xsspy.html
 
-# How to Use: 
-http://fsecurify.com/xsspy-web-application-xss-scanner/
-
 # Installation: 
 Type the following in the terminal.
 
-`git clone https://github.com/faizann24/XssPy/` /opt/xsspy
+`git clone https://github.com/trhacknon/XssPy/` /opt/xsspy
 
 The tool works on Python 2.7 and you should have mechanize installed. If mechanize is not installed, type "pip install mechanize" in the terminal.
 
@@ -54,8 +51,7 @@ With this tool, Cross Site Scripting vulnerabilities have been found in the webs
 
 
 # NOTE: 
-Mail me if you encounter any errors (fsecurify@gmail.com). You can also post your problems on the website. I'll try my best to respond as soon as possible.
+Mail me if you encounter any errors (jeremydiliotti@gmail.com). You can also post your problems on the website. I'll try my best to respond as soon as possible.
 
 Best Regards
-Faizan Ahmad
-CEO of Fsecurify
+TRHACKNON THX to the author of this tool
