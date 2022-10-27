@@ -34,14 +34,21 @@ class color:
 
 
 print color.BOLD + color.RED + """
-XssPy - Finding XSS made easier
-Author: Faizan Ahmad (Fsecurify)
-Modded By Trhacknon
+ #######                      #     #               ######        
+    #    #####  #    # #    #  #   #   ####   ####  #     # #   # 
+    #    #    # #   #  ##   #   # #   #      #      #     #  # #  
+    #    #    # ####   # #  #    #     ####   ####  ######    #   
+    #    #####  #  #   #  # #   # #        #      # #         #   
+    #    #   #  #   #  #   ##  #   #  #    # #    # #         #   
+    #    #    # #    # #    # #     #  ####   ####  #         #   
+                                                                  
+TrknXssPy - Finding XSS made easier
+Author: trhacknon (Anonymous)
 Email: jeremydiliotti@gmail.com
-Usage: XssPy.py website.com (Not www.website.com OR http://www.website.com)
-Comprehensive Scan: python XssPy.py -u website.com -e
-Verbose logging: python XssPy.py -u website.com -v
-Cookies: python XssPy.py -u website.complex -c name=val name=val
+Usage: TrknXssPy.py website.com (Not www.website.com OR http://www.website.com)
+Comprehensive Scan: python TrknXssPy.py -u website.com -e
+Verbose logging: python TrknXssPy.py -u website.com -v
+Cookies: python TrknXssPy.py -u website.complex -c name=val name=val
 
 Description: XssPy is a python tool for finding Cross Site Scripting
 vulnerabilities in websites. This tool is the first of its kind.
